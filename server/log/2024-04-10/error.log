@@ -1,0 +1,7 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024/04/10 - 22:18:32.845	[31merror[0m	/Users/kinoko/web/gva/server/core/server.go:49	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2024/04/10 - 23:06:18.619	[31merror[0m	/Users/kinoko/web/gva/server/core/server.go:49	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2024/04/10 - 23:38:21.368	[31merror[0m	/Users/kinoko/web/gva/server/initialize/gorm.go:63	register table failed	{"error": "Error 1406 (22001): Data too long for column 'paths' at row 2"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/04/10 - 23:38:37.687	[31merror[0m	/Users/kinoko/web/gva/server/core/server.go:49	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2024/04/10 - 23:43:43.796	[31merror[0m	/Users/kinoko/web/gva/server/initialize/gorm.go:63	register table failed	{"error": "Error 1406 (22001): Data too long for column 'paths' at row 2"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/04/10 - 23:45:43.702	[31merror[0m	/Users/kinoko/web/gva/server/initialize/gorm.go:63	register table failed	{"error": "Error 1406 (22001): Data too long for column 'paths' at row 2"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/04/10 - 23:46:09.446	[31merror[0m	/Users/kinoko/web/gva/server/initialize/gorm.go:63	register table failed	{"error": "Error 1406 (22001): Data too long for column 'paths' at row 2"}

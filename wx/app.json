@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/nearby/nearby",
+    "pages/site/site",
+    "pages/route/route",
+    "pages/detail/detail",
+    "pages/admin/admin",
+    "pages/navigation/navigation",
+    "pages/collect/collect"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "requiredPrivateInfos": ["chooseLocation","getLocation"],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#4188fe",
+    "navigationBarTitleText": "电动汽车充电智能调度",
+    "navigationBarTextStyle": "white"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wxbbec65de8931cc38"
+  ]
+}
